@@ -19,7 +19,7 @@ The three columns with “tcp” stand for Transmission Control Protocol, which 
 Kiran Prasad Jamuna Prasad [AndrewID: kjamunap]
 ```
 ```bash
-Sriram Natarajan [AndrewID: ]
+Sriram Natarajan
 ```
 
 ## Latest Development Changes
